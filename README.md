@@ -8,8 +8,8 @@
 
 ```
 | When <br /> (YYYY-MM-DD) | Who        | Type        | Presentation Title   | Slides filename/link           |
-| :----:            | :----:     | :----       | :----:               | :----:                         |
-| 2023-01-01        | First Last | lab meeting | My presetation title | [my_slides.pdf](my_slides.pdf) |
+| :----:                   | :----:     | :----       | :----:               | :----:                         |
+| 202x-xx-xx               | First Last | lab meeting | My presetation title | [my_slides.pdf](my_slides.pdf) |
 ```
 
 ## List of collections:
