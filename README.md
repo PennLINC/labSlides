@@ -15,4 +15,5 @@
 ## List of collections:
 | When <br /> (YYYY-MM-DD) | Who  | Type | Presentation Title  | Slides filename/link    |
 | :----:        | :----:   | :----:     | :----:         | :----:        |
-| 2023-02-28            | Chenying Zhao | lab meeting | BABS | [labMeeting_BABS_Chenying_toLab_20230228.pdf](labMeeting_BABS_Chenying_toLab_20230228.pdf) |
+| 2023-02-28 | Chenying Zhao | lab meeting | BABS | [labMeeting_BABS_Chenying_toLab_20230228.pdf](labMeeting_BABS_Chenying_toLab_20230228.pdf) |
+| 2023-03-14 | Valerie Sydnor | lab meeting | Thalamocortical Development | [Sydnor_LabMeeting_3.14.23_ThalamocorticalDevelopment.pdf](Sydnor_LabMeeting_3.14.23_ThalamocorticalDevelopment.pdf) |
