@@ -17,4 +17,4 @@
 | :----:        | :----:   | :----:     | :----:         | :----:        |
 | 2023-02-28 | Chenying Zhao | lab meeting | BABS | [labMeeting_BABS_Chenying_toLab_20230228.pdf](labMeeting_BABS_Chenying_toLab_20230228.pdf) |
 | 2023-03-14 | Valerie Sydnor | lab meeting | Thalamocortical Development | [Sydnor_LabMeeting_3.14.23_ThalamocorticalDevelopment.pdf](Sydnor_LabMeeting_3.14.23_ThalamocorticalDevelopment.pdf) |
-| 2023-03-28 | Thiti (Nob) Premrudeepreechacharn | lab meeting | QSM | [Premrudeepreechacharn_LabMeeting_3.28.23_QSM.pdf](Premrudeepreechacharn_LabMeeting_3.28.23_QSM.pdf) |
+| 2023-03-28 | Thiti (Nob) Premrudeepreechacharn | lab meeting | QSM | [Premrudeepreechacharn_LabMeeting_03.28.23_QSM.pdf](Premrudeepreechacharn_LabMeeting_03.28.23_QSM.pdf) |
