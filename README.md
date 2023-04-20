@@ -3,7 +3,7 @@
 ## README
 **For recent presenters**: After your presentation (e.g., lab meeting), please complete these two simple steps:
 
-1. Upload your slides to this GitHub repository;
+1. Upload your slides to this GitHub repository: Please convert your slides to PDF format first;
 2. Update this README.md file by adding a new entry:
 
 ```
