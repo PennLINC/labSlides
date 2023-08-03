@@ -20,5 +20,5 @@
 | 2023-03-28 | Thiti (Nob) Premrudeepreechacharn | lab meeting | QSM | [Premrudeepreechacharn_LabMeeting_03.28.23_QSM.pdf](Premrudeepreechacharn_LabMeeting_03.28.23_QSM.pdf) |
 | 2023-06-06 | Audrey Luo | lab meeting | Network Replication | [Luo_NetworkReplication.pdf](Luo_NetworkReplication.pdf) |
 | 2023-06-20 | Golia Shafiei | lab meeting | BPD | [Shafiei_LabMeeting_6.20.23_BPD.pdf](Shafiei_LabMeeting_6.20.23_BPD.pdf) |
-| 2023-07-18 | Arielle Keller | lab meeting | Exposome/PFNs/Cognition | [Part 1](https://github.com/PennLINC/labSlides/blob/master/Keller_LabMeeting_071823_compressed_part1.pdf) |
+| 2023-07-18 | Arielle Keller | lab meeting | Exposome/PFNs/Cognition | [Part 1](https://github.com/PennLINC/labSlides/blob/master/Keller_LabMeeting_071823_compressed_part1.pdf) [Part 2](https://github.com/PennLINC/labSlides/blob/master/Keller_LabMeeting_071823_compressed_part2.pdf) |
 
