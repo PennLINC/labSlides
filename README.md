@@ -21,4 +21,4 @@
 | 2023-06-06 | Audrey Luo | lab meeting | Network Replication | [Luo_NetworkReplication.pdf](Luo_NetworkReplication.pdf) |
 | 2023-06-20 | Golia Shafiei | lab meeting | BPD | [Shafiei_LabMeeting_6.20.23_BPD.pdf](Shafiei_LabMeeting_6.20.23_BPD.pdf) |
 | 2023-07-18 | Arielle Keller | lab meeting | Exposome/PFNs/Cognition | [Part 1](https://github.com/PennLINC/labSlides/blob/master/Keller_LabMeeting_071823_compressed_part1.pdf) [Part 2](https://github.com/PennLINC/labSlides/blob/master/Keller_LabMeeting_071823_compressed_part2.pdf) |
-
+| 2023-11-07 | Taylor Salo | lab meeting | Pitch for a Reproducible Research Tutorial | [20231107_Salo_Processing_Tutorial_Proposal.pdf](20231107_Salo_Processing_Tutorial_Proposal.pdf) |
