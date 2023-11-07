@@ -22,3 +22,4 @@
 | 2023-06-20 | Golia Shafiei | lab meeting | BPD | [Shafiei_LabMeeting_6.20.23_BPD.pdf](Shafiei_LabMeeting_6.20.23_BPD.pdf) |
 | 2023-07-18 | Arielle Keller | lab meeting | Exposome/PFNs/Cognition | [Part 1](https://github.com/PennLINC/labSlides/blob/master/Keller_LabMeeting_071823_compressed_part1.pdf) [Part 2](https://github.com/PennLINC/labSlides/blob/master/Keller_LabMeeting_071823_compressed_part2.pdf) |
 | 2023-08-29 | Marc Jaskir | lab meeting | Developmental changes in the white matter - grey matter interface  | [Jaskir_Rotation_Talk_TDS_Summer2023.pdf](Jaskir_Rotation_Talk_TDS_Summer2023.pdf) |
+| 2023-11-07 | Taylor Salo | lab meeting | Pitch for a Reproducible Research Tutorial | [20231107_Salo_Processing_Tutorial_Proposal.pdf](20231107_Salo_Processing_Tutorial_Proposal.pdf) |
