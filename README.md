@@ -24,3 +24,4 @@
 | 2023-08-29 | Marc Jaskir | lab meeting | Developmental changes in the white matter - grey matter interface  | [Jaskir_Rotation_Talk_TDS_Summer2023.pdf](Jaskir_Rotation_Talk_TDS_Summer2023.pdf) |
 | 2023-11-07 | Taylor Salo | lab meeting | Pitch for a Reproducible Research Tutorial | [20231107_Salo_Processing_Tutorial_Proposal.pdf](20231107_Salo_Processing_Tutorial_Proposal.pdf) |
 | 2023-11-14 | Joëlle Bagautdinova | lab meeting | Tractmaps: annotating tracts using cortical surface features | [Bagautdinova_labmeeting_tractmaps_11142023.pdf](Bagautdinova_labmeeting_tractmaps_11142023.pdf) |
+| 2023-11-28 | Chenying Zhao | lab meeting | Best coding practice | [best_coding_practice_20231128_toLab.pdf](best_coding_practice_20231128_toLab.pdf) |
