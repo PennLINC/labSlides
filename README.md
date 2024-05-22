@@ -28,5 +28,4 @@
 | 2023-12-12 | Kahini Mehta & Taylor Salo | lab meeting | XCP-D | [XCP-D](https://github.com/PennLINC/labSlides/blob/master/Copy%20of%20XCP-D_%20Extensible%20Connectivity%20Pipeline-DCAN.pdf)
 | 2024-01-09 | Tyler Moore | lab meeting | Using Contemporary Psychometrics to Enhance the CNB and GOASSESS | [Moore_Satterthwaite_lab_chat.pdf](Moore_Satterthwaite_lab_chat.pdf) |
 | 2024-01-16 | Ted Satterthwaite | lab meeting | 2023 in Review & Goals for 2024 | [lab goals 2024.pdf](lab%20goals%202024.pdf) |
-| 2024-05-21 | Taylor Salo | lab meeting | Systemic Low-Frequency Oscillations (sLFOs) and Global Signal [Regression]
- | [20240521-Salo-sLFOs.pdf](20240521-Salo-sLFOs.pdf) |
+| 2024-05-21 | Taylor Salo | lab meeting | Systemic Low-Frequency Oscillations (sLFOs) and Global Signal [Regression] | [20240521-Salo-sLFOs.pdf](20240521-Salo-sLFOs.pdf) |
